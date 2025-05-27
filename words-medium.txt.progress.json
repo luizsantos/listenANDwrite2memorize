@@ -1,0 +1,145 @@
+{
+    "words_data": [
+        {
+            "text": "painting",
+            "correct": 2,
+            "incorrect": 0,
+            "mastered": true,
+            "presented": true
+        },
+        {
+            "text": "research",
+            "correct": 2,
+            "incorrect": 0,
+            "mastered": true,
+            "presented": true
+        },
+        {
+            "text": "vanishing",
+            "correct": 2,
+            "incorrect": 0,
+            "mastered": true,
+            "presented": true
+        },
+        {
+            "text": "teenagers",
+            "correct": 2,
+            "incorrect": 0,
+            "mastered": true,
+            "presented": true
+        },
+        {
+            "text": "ceramics",
+            "correct": 2,
+            "incorrect": 0,
+            "mastered": true,
+            "presented": true
+        },
+        {
+            "text": "ornaments",
+            "correct": 2,
+            "incorrect": 0,
+            "mastered": true,
+            "presented": true
+        },
+        {
+            "text": "symphonies",
+            "correct": 2,
+            "incorrect": 0,
+            "mastered": true,
+            "presented": true
+        },
+        {
+            "text": "arguments",
+            "correct": 2,
+            "incorrect": 0,
+            "mastered": true,
+            "presented": true
+        },
+        {
+            "text": "photography",
+            "correct": 2,
+            "incorrect": 0,
+            "mastered": true,
+            "presented": true
+        },
+        {
+            "text": "movements",
+            "correct": 2,
+            "incorrect": 0,
+            "mastered": true,
+            "presented": true
+        },
+        {
+            "text": "articulate",
+            "correct": 2,
+            "incorrect": 0,
+            "mastered": true,
+            "presented": true
+        },
+        {
+            "text": "creativity",
+            "correct": 2,
+            "incorrect": 0,
+            "mastered": true,
+            "presented": true
+        },
+        {
+            "text": "gymnastics",
+            "correct": 2,
+            "incorrect": 0,
+            "mastered": true,
+            "presented": true
+        },
+        {
+            "text": "cartography",
+            "correct": 2,
+            "incorrect": 0,
+            "mastered": true,
+            "presented": true
+        },
+        {
+            "text": "monument",
+            "correct": 2,
+            "incorrect": 0,
+            "mastered": true,
+            "presented": true
+        },
+        {
+            "text": "humanity",
+            "correct": 2,
+            "incorrect": 0,
+            "mastered": true,
+            "presented": true
+        },
+        {
+            "text": "decoration",
+            "correct": 2,
+            "incorrect": 0,
+            "mastered": true,
+            "presented": true
+        },
+        {
+            "text": "topographic",
+            "correct": 2,
+            "incorrect": 0,
+            "mastered": true,
+            "presented": true
+        },
+        {
+            "text": "disposable",
+            "correct": 2,
+            "incorrect": 0,
+            "mastered": true,
+            "presented": true
+        },
+        {
+            "text": "interview",
+            "correct": 2,
+            "incorrect": 1,
+            "mastered": true,
+            "presented": true
+        }
+    ],
+    "consecutive_correct_answers": 26
+}

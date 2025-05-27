@@ -1,0 +1,33 @@
+{
+    "words_data": [
+        {
+            "text": "open",
+            "correct": 2,
+            "incorrect": 0,
+            "mastered": true,
+            "presented": true
+        },
+        {
+            "text": "door",
+            "correct": 0,
+            "incorrect": 0,
+            "mastered": false,
+            "presented": false
+        },
+        {
+            "text": "close",
+            "correct": 1,
+            "incorrect": 0,
+            "mastered": false,
+            "presented": true
+        },
+        {
+            "text": "easy",
+            "correct": 0,
+            "incorrect": 0,
+            "mastered": false,
+            "presented": true
+        }
+    ],
+    "consecutive_correct_answers": 4
+}
