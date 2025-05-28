@@ -141,7 +141,7 @@ A brief overview of important files and directories:
 
 ```
 ./
-├── docs    # Doc diretory
+├── docs    # Doc Directory
 │   └── img # Imagens to README
 │
 ├── img     # Directory for success/celebration and errors GIFs 
