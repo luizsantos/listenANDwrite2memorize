@@ -177,4 +177,24 @@ Contributions are welcome! If you have ideas for improvements or bug fixes, feel
 
 *   This project heavily relies on the Piper TTS engine for its text-to-speech capabilities.
 
+## Screenshots
+
+![Main screen](docs/img/1.png)
+
+![Gamification with player's achieved levels and animations for correct and incorrect answers](docs/img/2.png)
+
+![Tips to complete words in case of errors](docs/img/3.png)
+
+![Status of already memorized words](docs/img/4.png)
+
+![Summary with correct and incorrect words upon exiting the program](docs/img/5.png)
+
+![Voice speed and voice type control](docs/img/6.png)
+
+
+
+
+
+
+
 
