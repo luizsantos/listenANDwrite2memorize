@@ -139,25 +139,31 @@ My belief is that this dual approach not only aids significantly in preparing fo
 
 A brief overview of important files and directories:
 
-listenANDwrite2memorize/ 
-    ├── main-gui.py # Main application script 
-    ├── piper/ # Directory for the Piper TTS executable 
-    ├── piper_voices/│ 
-        └── piper 
-        ├── piper_voices/ # Directory for Piper voice model files (.onnx, .onnx.json) 
-        │ ├── en_US-hfc_female-medium.onnx 
-        │ ├── en_US-hfc_female-medium.onnx.json 
-        │ ├── en_GB-alan-medium.│ 
-        └── ... (other voices) 
-        ├── img/ # Directory for success/celebration GIFs 
-        │ ├── victory1.gif │ 
-                ├── ... 
-                │ └── errors/ # Directory for error/try-again GIFs 
-                │ ├── error1.gif 
-                │ └── ... 
-    ├── your_word_list.txt # Example word list file 
-    └── your_word_list.txt.progress.json # Auto-generated progress file
-
+```
+./
+├── docs    # Doc diretory
+│   └── img # Imagens to README
+│
+├── img     # Directory for success/celebration and errors GIFs 
+│   └── errors
+│       ├── baby-yoda-the-mandalorian.gif
+│       ├── congratulations-congrats.gif
+│       ├── lebron-james-king-james.gif
+│       └── ... (outros GIFs)
+│
+├── piper # Directory for the Piper TTS executable 
+│
+├── piper_voices # Directory for Piper voice model files (.onnx, .onnx.json) 
+│       ├── en_GB-alan-medium.onnx
+│       ├── en_GB-alan-medium.onnx.json
+│       └── ... 
+│
+├── your_word_list.txt # Example word list file 
+├── your_word_list.txt.progress.json # Auto-generated progress file
+├── main-text.py # Main application script in text terminal mode (just for test)
+├── main.py      # Main application script
+└── README.md
+```
 
 ## License
 
@@ -179,16 +185,22 @@ Contributions are welcome! If you have ideas for improvements or bug fixes, feel
 
 ## Screenshots
 
+* Main screen:
 ![Main screen](docs/img/1.png)
 
+* Gamification with player's achieved levels and animations for correct and incorrect answers:
 ![Gamification with player's achieved levels and animations for correct and incorrect answers](docs/img/2.png)
 
+* Tips to complete words in case of errors:
 ![Tips to complete words in case of errors](docs/img/3.png)
 
+* Status of already memorized words:
 ![Status of already memorized words](docs/img/4.png)
 
+* Summary with correct and incorrect words upon exiting the program:
 ![Summary with correct and incorrect words upon exiting the program](docs/img/5.png)
 
+* Voice speed and voice type control:
 ![Voice speed and voice type control](docs/img/6.png)
 
 
