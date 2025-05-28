@@ -1,0 +1,145 @@
+{
+    "words_data": [
+        {
+            "text": "government",
+            "correct": 2,
+            "incorrect": 0,
+            "mastered": true,
+            "presented": true
+        },
+        {
+            "text": "choreography",
+            "correct": 0,
+            "incorrect": 0,
+            "mastered": false,
+            "presented": false
+        },
+        {
+            "text": "representative",
+            "correct": 2,
+            "incorrect": 0,
+            "mastered": true,
+            "presented": true
+        },
+        {
+            "text": "psychologists",
+            "correct": 1,
+            "incorrect": 0,
+            "mastered": false,
+            "presented": true
+        },
+        {
+            "text": "philosophers",
+            "correct": 2,
+            "incorrect": 0,
+            "mastered": true,
+            "presented": true
+        },
+        {
+            "text": "independence",
+            "correct": 1,
+            "incorrect": 0,
+            "mastered": false,
+            "presented": true
+        },
+        {
+            "text": "astigmatism",
+            "correct": 2,
+            "incorrect": 0,
+            "mastered": true,
+            "presented": true
+        },
+        {
+            "text": "characteristics",
+            "correct": 0,
+            "incorrect": 1,
+            "mastered": false,
+            "presented": true
+        },
+        {
+            "text": "architecture",
+            "correct": 2,
+            "incorrect": 0,
+            "mastered": true,
+            "presented": true
+        },
+        {
+            "text": "compilations",
+            "correct": 1,
+            "incorrect": 0,
+            "mastered": false,
+            "presented": true
+        },
+        {
+            "text": "interrupting",
+            "correct": 2,
+            "incorrect": 0,
+            "mastered": true,
+            "presented": true
+        },
+        {
+            "text": "revolutionary",
+            "correct": 1,
+            "incorrect": 0,
+            "mastered": false,
+            "presented": true
+        },
+        {
+            "text": "playwrites",
+            "correct": 0,
+            "incorrect": 0,
+            "mastered": false,
+            "presented": false
+        },
+        {
+            "text": "repatriation",
+            "correct": 0,
+            "incorrect": 0,
+            "mastered": false,
+            "presented": false
+        },
+        {
+            "text": "reasoning",
+            "correct": 0,
+            "incorrect": 0,
+            "mastered": false,
+            "presented": false
+        },
+        {
+            "text": "inequalities",
+            "correct": 1,
+            "incorrect": 1,
+            "mastered": false,
+            "presented": true
+        },
+        {
+            "text": "geometrical",
+            "correct": 2,
+            "incorrect": 0,
+            "mastered": true,
+            "presented": true
+        },
+        {
+            "text": "periodically",
+            "correct": 1,
+            "incorrect": 1,
+            "mastered": false,
+            "presented": true
+        },
+        {
+            "text": "tesselations",
+            "correct": 0,
+            "incorrect": 0,
+            "mastered": false,
+            "presented": false
+        },
+        {
+            "text": "urbanisation",
+            "correct": 1,
+            "incorrect": 1,
+            "mastered": false,
+            "presented": true
+        }
+    ],
+    "consecutive_correct_answers": 1
+}

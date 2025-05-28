@@ -835,6 +835,9 @@ class MainWindow(QMainWindow):
         self.current_selected_speed_name = "Normal" # Nome da velocidade selecionada
         
         self.current_word_file_path = None # Para rastrear o arquivo de palavras carregado
+        self.WORDLISTS_DIR_NAME = "wordlists" # Nome do diretório para listas de palavras e progresso
+        os.makedirs(self.WORDLISTS_DIR_NAME, exist_ok=True) # Cria o diretório se não existir
+
         # --- Fim do Gerenciamento de Nível ---
 
         self._create_widgets()
@@ -1005,7 +1008,7 @@ class MainWindow(QMainWindow):
 
     def import_word_file_dialog(self):
         file_path, _ = QFileDialog.getOpenFileName(
-            self, "Open Word File", "", "Text Files (*.txt);;All Files (*)"
+            self, "Open Word File", self.WORDLISTS_DIR_NAME, "Text Files (*.txt);;All Files (*)"
         )
         if file_path:
             success, message = self.word_manager.load_words_from_file(file_path)
@@ -1027,7 +1030,10 @@ class MainWindow(QMainWindow):
     def _get_progress_file_path(self, word_file_path):
         if not word_file_path:
             return None
-        return word_file_path + ".progress.json"
+        # Cria o nome do arquivo de progresso oculto dentro do diretório wordlists
+        base_filename = os.path.basename(word_file_path)
+        progress_filename = f".{base_filename}.progress.json"
+        return os.path.join(self.WORDLISTS_DIR_NAME, progress_filename)
 
     def _handle_progress_loading(self):
         progress_file = self._get_progress_file_path(self.current_word_file_path)
@@ -1075,6 +1081,9 @@ class MainWindow(QMainWindow):
 
         progress_file = self._get_progress_file_path(self.current_word_file_path)
         if not progress_file: return
+
+        # Garante que o diretório wordlists existe antes de salvar
+        os.makedirs(os.path.dirname(progress_file), exist_ok=True)
 
         data_to_save = {
             "words_data": self.word_manager.get_progress_data_to_save(),

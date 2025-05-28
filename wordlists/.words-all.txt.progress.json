@@ -1,0 +1,425 @@
+{
+    "words_data": [
+        {
+            "text": "focus",
+            "correct": 0,
+            "incorrect": 0,
+            "mastered": false,
+            "presented": false
+        },
+        {
+            "text": "ancient",
+            "correct": 0,
+            "incorrect": 0,
+            "mastered": false,
+            "presented": false
+        },
+        {
+            "text": "figure",
+            "correct": 0,
+            "incorrect": 0,
+            "mastered": false,
+            "presented": false
+        },
+        {
+            "text": "opinion",
+            "correct": 0,
+            "incorrect": 0,
+            "mastered": false,
+            "presented": false
+        },
+        {
+            "text": "design",
+            "correct": 0,
+            "incorrect": 0,
+            "mastered": false,
+            "presented": false
+        },
+        {
+            "text": "culture",
+            "correct": 0,
+            "incorrect": 0,
+            "mastered": false,
+            "presented": false
+        },
+        {
+            "text": "science",
+            "correct": 1,
+            "incorrect": 0,
+            "mastered": false,
+            "presented": true
+        },
+        {
+            "text": "board",
+            "correct": 0,
+            "incorrect": 0,
+            "mastered": false,
+            "presented": false
+        },
+        {
+            "text": "pottery",
+            "correct": 0,
+            "incorrect": 0,
+            "mastered": false,
+            "presented": false
+        },
+        {
+            "text": "artwork",
+            "correct": 0,
+            "incorrect": 0,
+            "mastered": false,
+            "presented": false
+        },
+        {
+            "text": "legend",
+            "correct": 0,
+            "incorrect": 0,
+            "mastered": false,
+            "presented": false
+        },
+        {
+            "text": "camera",
+            "correct": 0,
+            "incorrect": 0,
+            "mastered": false,
+            "presented": false
+        },
+        {
+            "text": "image",
+            "correct": 0,
+            "incorrect": 0,
+            "mastered": false,
+            "presented": false
+        },
+        {
+            "text": "golden",
+            "correct": 1,
+            "incorrect": 0,
+            "mastered": false,
+            "presented": true
+        },
+        {
+            "text": "angles",
+            "correct": 0,
+            "incorrect": 0,
+            "mastered": false,
+            "presented": false
+        },
+        {
+            "text": "museum",
+            "correct": 0,
+            "incorrect": 0,
+            "mastered": false,
+            "presented": false
+        },
+        {
+            "text": "acropolis",
+            "correct": 0,
+            "incorrect": 0,
+            "mastered": false,
+            "presented": false
+        },
+        {
+            "text": "famous",
+            "correct": 0,
+            "incorrect": 0,
+            "mastered": false,
+            "presented": false
+        },
+        {
+            "text": "battle",
+            "correct": 2,
+            "incorrect": 0,
+            "mastered": true,
+            "presented": true
+        },
+        {
+            "text": "illusion",
+            "correct": 0,
+            "incorrect": 0,
+            "mastered": false,
+            "presented": false
+        },
+        {
+            "text": "painting",
+            "correct": 0,
+            "incorrect": 0,
+            "mastered": false,
+            "presented": false
+        },
+        {
+            "text": "research",
+            "correct": 0,
+            "incorrect": 0,
+            "mastered": false,
+            "presented": false
+        },
+        {
+            "text": "vanishing",
+            "correct": 1,
+            "incorrect": 0,
+            "mastered": false,
+            "presented": true
+        },
+        {
+            "text": "teenagers",
+            "correct": 0,
+            "incorrect": 0,
+            "mastered": false,
+            "presented": false
+        },
+        {
+            "text": "ceramics",
+            "correct": 0,
+            "incorrect": 0,
+            "mastered": false,
+            "presented": false
+        },
+        {
+            "text": "ornaments",
+            "correct": 0,
+            "incorrect": 0,
+            "mastered": false,
+            "presented": false
+        },
+        {
+            "text": "symphonies",
+            "correct": 0,
+            "incorrect": 0,
+            "mastered": false,
+            "presented": false
+        },
+        {
+            "text": "arguments",
+            "correct": 0,
+            "incorrect": 0,
+            "mastered": false,
+            "presented": false
+        },
+        {
+            "text": "photography",
+            "correct": 0,
+            "incorrect": 0,
+            "mastered": false,
+            "presented": false
+        },
+        {
+            "text": "movements",
+            "correct": 0,
+            "incorrect": 0,
+            "mastered": false,
+            "presented": false
+        },
+        {
+            "text": "articulate",
+            "correct": 0,
+            "incorrect": 0,
+            "mastered": false,
+            "presented": false
+        },
+        {
+            "text": "creativity",
+            "correct": 0,
+            "incorrect": 0,
+            "mastered": false,
+            "presented": false
+        },
+        {
+            "text": "gymnastics",
+            "correct": 1,
+            "incorrect": 0,
+            "mastered": false,
+            "presented": true
+        },
+        {
+            "text": "cartography",
+            "correct": 0,
+            "incorrect": 0,
+            "mastered": false,
+            "presented": false
+        },
+        {
+            "text": "monument",
+            "correct": 0,
+            "incorrect": 0,
+            "mastered": false,
+            "presented": false
+        },
+        {
+            "text": "humanity",
+            "correct": 0,
+            "incorrect": 0,
+            "mastered": false,
+            "presented": false
+        },
+        {
+            "text": "decoration",
+            "correct": 0,
+            "incorrect": 0,
+            "mastered": false,
+            "presented": false
+        },
+        {
+            "text": "topographic",
+            "correct": 1,
+            "incorrect": 0,
+            "mastered": false,
+            "presented": true
+        },
+        {
+            "text": "disposable",
+            "correct": 0,
+            "incorrect": 0,
+            "mastered": false,
+            "presented": false
+        },
+        {
+            "text": "interview",
+            "correct": 0,
+            "incorrect": 0,
+            "mastered": false,
+            "presented": false
+        },
+        {
+            "text": "government",
+            "correct": 0,
+            "incorrect": 0,
+            "mastered": false,
+            "presented": false
+        },
+        {
+            "text": "choreography",
+            "correct": 1,
+            "incorrect": 0,
+            "mastered": false,
+            "presented": true
+        },
+        {
+            "text": "representative",
+            "correct": 0,
+            "incorrect": 0,
+            "mastered": false,
+            "presented": false
+        },
+        {
+            "text": "psychologists",
+            "correct": 0,
+            "incorrect": 0,
+            "mastered": false,
+            "presented": false
+        },
+        {
+            "text": "philosophers",
+            "correct": 0,
+            "incorrect": 0,
+            "mastered": false,
+            "presented": false
+        },
+        {
+            "text": "independence",
+            "correct": 0,
+            "incorrect": 0,
+            "mastered": false,
+            "presented": false
+        },
+        {
+            "text": "astigmatism",
+            "correct": 1,
+            "incorrect": 0,
+            "mastered": false,
+            "presented": true
+        },
+        {
+            "text": "characteristics",
+            "correct": 0,
+            "incorrect": 0,
+            "mastered": false,
+            "presented": false
+        },
+        {
+            "text": "architecture",
+            "correct": 0,
+            "incorrect": 0,
+            "mastered": false,
+            "presented": false
+        },
+        {
+            "text": "compilations",
+            "correct": 0,
+            "incorrect": 0,
+            "mastered": false,
+            "presented": false
+        },
+        {
+            "text": "interrupting",
+            "correct": 0,
+            "incorrect": 0,
+            "mastered": false,
+            "presented": false
+        },
+        {
+            "text": "revolutionary",
+            "correct": 0,
+            "incorrect": 0,
+            "mastered": false,
+            "presented": false
+        },
+        {
+            "text": "playwrights",
+            "correct": 0,
+            "incorrect": 0,
+            "mastered": false,
+            "presented": false
+        },
+        {
+            "text": "repatriation",
+            "correct": 0,
+            "incorrect": 0,
+            "mastered": false,
+            "presented": false
+        },
+        {
+            "text": "reasoning",
+            "correct": 0,
+            "incorrect": 0,
+            "mastered": false,
+            "presented": false
+        },
+        {
+            "text": "inequalities",
+            "correct": 1,
+            "incorrect": 0,
+            "mastered": false,
+            "presented": true
+        },
+        {
+            "text": "geometrical",
+            "correct": 0,
+            "incorrect": 0,
+            "mastered": false,
+            "presented": false
+        },
+        {
+            "text": "periodically",
+            "correct": 0,
+            "incorrect": 0,
+            "mastered": false,
+            "presented": false
+        },
+        {
+            "text": "tessellations",
+            "correct": 0,
+            "incorrect": 1,
+            "mastered": false,
+            "presented": true
+        },
+        {
+            "text": "urbanisation",
+            "correct": 2,
+            "incorrect": 0,
+            "mastered": true,
+            "presented": true
+        }
+    ],
+    "consecutive_correct_answers": 0
+}
